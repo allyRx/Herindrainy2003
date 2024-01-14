@@ -1,4 +1,4 @@
-# Albert - JS, Node.js, React Native Developer
+# Albert - JavaScript | TypeScript, Node.js
 
 Hello! I'm Albert, passionate about JavaScript development, Node.js, and React Native. I'm constantly seeking new challenges to expand my skills and contribute to innovative projects.
 
