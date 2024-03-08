@@ -1,19 +1,19 @@
-# Albert - JavaScript | TypeScript, Node.js
+# Albert - JavaScript | Reactjs | Node.js | wordpress
 
-Hello! I'm Albert, passionate about JavaScript development, Node.js, and React Native. I'm constantly seeking new challenges to expand my skills and contribute to innovative projects.
+Hello! I'm Albert, passionate about JavaScript development, Node.js, and Reactjs. I'm constantly seeking new challenges to expand my skills and contribute to innovative projects
 
 ## About Me
 
-- 👨‍💻 Experienced developer in JavaScript technologies.
-- 🌱 Always learning and improving within my field.
-- 💡 Enthusiastic about crafting innovative and high-performing solutions.
-- 🚀 Currently seeking new challenges to leverage my skills.
+- 👨‍💻 Passionate and ready to develop in JavaScript technologies
+- 🌱 Always learning and improving within my field
+- 💡 Enthusiastic about crafting innovative and high-performing solutions
+- 🚀 Currently seeking new challenges to leverage my skills
 
 ## Skills
 
-- **JavaScript:** Proficient in the latest ECMAScript specifications and frameworks like React.js and React Native.
-- **Node.js:** Experience in server-side development with Node.js, handling APIs, and databases.
-- **React Native:** Building high-performance, cross-platform mobile applications.
+- **JavaScript:** Proficient in the latest ECMAScript specifications and frameworks like React.js and Nodejs
+- **Node.js:** Experience in server-side development with Node.js, handling APIs, and databases
+- **React :** Building high-performance
 
 ## Contact
 
