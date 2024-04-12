@@ -1,6 +1,6 @@
-# Albert - JavaScript | Reactjs | Node.js | wordpress
+# Albert - JavaScript | Reactjs | wordpress
 
-Hello! I'm Albert, passionate about JavaScript development, Node.js, and Reactjs. I'm constantly seeking new challenges to expand my skills and contribute to innovative projects
+Hello! I'm Albert, passionate about JavaScript development  and Reactjs. I'm constantly seeking new challenges to expand my skills and contribute to innovative projects
 
 ## About Me
 
@@ -11,9 +11,10 @@ Hello! I'm Albert, passionate about JavaScript development, Node.js, and Reactjs
 
 ## Skills
 
-- **JavaScript:** Proficient in the latest ECMAScript specifications and frameworks like React.js and Nodejs
-- **Node.js:** Experience in server-side development with Node.js, handling APIs, and databases
-- **React :** Building high-performance
+- **JavaScript:** API , AJAX , DOM , ES6
+- **HTML and CSS**
+- **Node.js:** Experience in server-side development with Node.js, handling APIs, and databases(MongoDb , SQL )
+- **React :** ReactHook Form ,Redux , ReactQuery, YUP,Axios
 
 ## Contact
 
