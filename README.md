@@ -1,4 +1,4 @@
-# Albert - JavaScript | Reactjs | wordpress
+# Albert - JavaScript | Reactjs | Nodejs
 
 Hello! I'm Albert, passionate about JavaScript development  and Reactjs. I'm constantly seeking new challenges to expand my skills and contribute to innovative projects
 
