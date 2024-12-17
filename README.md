@@ -1,4 +1,4 @@
-# Albert - Developper Backend Javascript
+# Albert - Developer Backend Javascript
 ## Nodejs - NestJs | Express JS 
 ## MongoDb | PostgreSql | Mysql 
 
@@ -26,7 +26,7 @@ Hello! I'm Albert, passionate about backend development with Javascript . I'm co
 
 ## Contact
 
-📧 Reach out via email: herindrainyall2003@gamail.com or Phone : +261 33 94 410 20 | +261 37 50 022 51
+📧 Reach out via email: herindrainyall2003@gamail.com or Phone (watsapp): +261 33 94 410 20 | +261 37 50 022 51
 
 Feel free to get in touch to discuss interesting projects or potential collaborations!
 
