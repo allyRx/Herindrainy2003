@@ -1,4 +1,4 @@
-# Albert - Developer Backend Javascript
+# Albert - Developer Backend Javascript 
 ## Nodejs - NestJs | Express JS 
 ## MongoDb | PostgreSql | Mysql 
 
@@ -9,11 +9,12 @@ Hello! I'm Albert, passionate about backend development with Javascript . I'm co
 - TypeOrm
 - Robust Auhentication using JWT 
 - Microservices Architecture
+- MVC Architecture
+
 
  # Loading 
 
 * TDD
-* GraphQL
 * Design Pattern
 
 ## About Me
