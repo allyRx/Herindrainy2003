@@ -10,12 +10,14 @@ Hello! I'm Albert, passionate about backend development with Javascript . I'm co
 - Robust Auhentication using JWT 
 - Microservices Architecture
 - MVC Architecture
-
+- Payment Integration(Paypal , Stripe)
+  
 
  # Loading 
 
 * TDD
 * Design Pattern
+* Clean Architecture
 
 ## About Me
 
