@@ -1,4 +1,4 @@
-# Albert - Developer Backend Javascript 
+# Developer Backend Javascript 
 ## Nodejs - NestJs | Express JS 
 ## MongoDb | PostgreSql | Mysql 
 
