@@ -7,17 +7,11 @@ Hello! I'm Albert, passionate about backend development with Javascript . I'm co
 # SKILLS 
 - REST API
 - TypeOrm
-- Robust Auhentication using JWT 
+- Robust Auhentication 
 - Microservices Architecture
 - MVC Architecture
 - Payment Integration(Paypal , Stripe)
   
-
- # Loading 
-
-* TDD
-* Design Pattern
-* Clean Architecture
 
 ## About Me
 
