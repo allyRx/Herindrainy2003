@@ -1,24 +1,4 @@
-# Developer Backend Javascript 
-## Nodejs - NestJs | Express JS 
-## MongoDb | PostgreSql | Mysql 
-
-Hello! I'm Albert, passionate about backend development with Javascript . I'm constantly seeking new challenges to expand my skills and contribute to innovative projects
-
-# SKILLS 
-- REST API
-- TypeOrm
-- Robust Auhentication 
-- Microservices Architecture
-- MVC Architecture
-- Payment Integration(Paypal , Stripe)
-  
-
-## About Me
-
-- 👨‍💻 Passionate
-- 🌱 Always learning and improving within my field
-- 💡 Enthusiastic about crafting innovative and high-performing solutions
-- 🚀 Currently seeking new challenges to leverage my skills
+# Developer Javascript | Golang 
 
 
 ## Contact
